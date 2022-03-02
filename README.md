@@ -1,3 +1,8 @@
+# This is a dashboard for our website
+
+## We've created this using the Create React App script. 
+Here are README for it
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
